@@ -1,5 +1,4 @@
 {
-  "symbols.hidesExplorerArrows": false,
   "editor.fontLigatures": true,
   "files.autoSave": "onFocusChange",
   "workbench.iconTheme": "bearded-icons",
@@ -24,16 +23,12 @@
   },
   "cmake.configureOnOpen": true,
   "explorer.confirmDelete": false,
-  "workbench.colorTheme": "React Theme",
+  "workbench.colorTheme": "Copilot Theme - Higher Contrast",
   "explorer.confirmDragAndDrop": false,
-  "[c]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
-  },
   "git.autofetch": true,
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "terminal.integrated.env.windows": {},
-  "console-ninja.featureSet": "Community",
   "editor.cursorBlinking": "expand",
   "terminal.integrated.cursorBlinking": true,
   "workbench.sideBar.location": "right",
@@ -49,8 +44,6 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "terminal.integrated.env.linux": {},
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "powermode.presets": "exploding-rift",
-
   "editor.copyWithSyntaxHighlighting": false,
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.emptySelectionClipboard": false,
@@ -112,7 +105,6 @@
     "plaintext": "html"
   },
   "tailwindCSS.experimental.configFile": null,
-  "workbench.activityBar.location": "hidden",
   "workbench.statusBar.visible": true,
   "editor.inlineSuggest.suppressSuggestions": false,
   "editor.padding.top": 16,
@@ -139,12 +131,5 @@
         }
       }
     ]
-  },
-
-  "vscode_custom_css.imports": [
-    "file:///home/bossadi-zenith/vs-code/custom-vscode.css",
-    "file:///home/bossadi-zenith/vs-code/vscode-script.js"
-  ],
-  "editor.cursorSurroundingLines": 10,
-  "editor.cursorSmoothCaretAnimation": "on"
+  }
 }
